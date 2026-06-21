@@ -4,7 +4,7 @@ An interactive web-based visualization tool that demonstrates how popular sortin
 
 ## 🚀 Live Demo
 
-**Live:** [Add Vercel Link Here]
+**Live:** [https://sorting-searching-alogorithm-visual-sandy.vercel.app/]
 
 **GitHub:** [https://github.com/ravisingh123123/Sorting-searching-Alogorithm-Visualizer.git]
 
