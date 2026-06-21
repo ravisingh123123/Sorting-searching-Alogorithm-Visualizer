@@ -6,7 +6,7 @@ An interactive web-based visualization tool that demonstrates how popular sortin
 
 **Live:** [https://sorting-searching-alogorithm-visual-sandy.vercel.app/]
 
-**GitHub:** [https://github.com/ravisingh123123/Sorting-searching-Alogorithm-Visualizer.git]
+**GitHub:** [https://github.com/ravisingh123123/Sorting-searching-Algorithm-Visualizer.git]
 
 ---
 
@@ -78,7 +78,7 @@ Sorting-Searching-Algorithm-Visualizer/
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/ravisingh123123/Sorting-searching-Alogorithm-Visualizer>
+git clone <https://github.com/ravisingh123123/Sorting-searching-Algorithm-Visualizer>
 ```
 
 ### Navigate to Project Directory
