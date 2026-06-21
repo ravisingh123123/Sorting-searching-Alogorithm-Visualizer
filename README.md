@@ -78,7 +78,7 @@ Sorting-Searching-Algorithm-Visualizer/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ravisingh123123/Sorting-searching-Alogorithm-Visualizer>
 ```
 
 ### Navigate to Project Directory
@@ -107,11 +107,11 @@ This project helps users understand:
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### Sorting Visualization
+![Sorting Visualization](screenshots/sortingScreenShot.png)
 
-* Sorting Visualization
-* Searching Visualization
-* Speed Control & Dataset Generation
+### Searching Visualization
+![Searching Visualization](screenshots/searchingScreenshot.png)
 
 ---
 
